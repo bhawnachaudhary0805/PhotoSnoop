@@ -1,0 +1,8 @@
+__version__ = "1.1.0"
+__author__ = "Bhawna Chaudhary"
+__email__ = "bhawnachaudhary0805@gmail.com"
+__appname__ = "PhotoSnoop"
+__description__ = ""
+__keywords__ = ""
+__url__ = ""
+__copyright__ = ""

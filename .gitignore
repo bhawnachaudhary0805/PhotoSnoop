@@ -1,0 +1,8 @@
+
+dist/*
+build/*
+tests/*
+.directory
+bhawna/__pycache__/*
+.DS_Store
+bhawna.egg-info/*
